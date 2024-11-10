@@ -10,11 +10,11 @@ import moment from 'moment-timezone'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['50765609370', '𝑺𝑶𝑭𝑰', true],
-  ['584123989549', 'Sisked', true],
-  ['50765609370'],
-  ['50765609370'],
-  ['584123989549']
+  ['573132641948', 'santiago', true],
+  ['573132641948'],
+  ['573132641948'],
+  ['573132641948'],
+  ['573132641948']
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -24,13 +24,13 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻`
-global.author = '{\n "bot": {\n   "name": "𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻",\n     "author": "𝑺𝑶𝑭𝑰",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻'
-global.botname = '𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻'
-global.textbot = `WhatsApp Bot Sofi 👸🏻`
+global.packname = `SANT - BOT`
+global.author = '{\n "bot": {\n   "name": "SANT - BOT",\n     "author": "SANT",\n   "status_bot": "active"\n }\n}'
+global.wait = 'SANT - BOT'
+global.botname = 'SANT - BOT'
+global.textbot = `WhatsApp Bot Sant 🥷🏻`
 global.listo = 'Finalizado ✯'
-global.namechannel = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻'
+global.namechannel = 'SANT BOT'
 global.baileys = '@whiskeysockets/baileys'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -40,7 +40,7 @@ global.miniurl = fs.readFileSync('./storage/img/siskedurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/JultL94aPtb5AzIeeuDvpX'
+global.group = 'https://chat.whatsapp.com/L481VM9rJ2JJj5y3atndy8'
 global.canal = 'https://whatsapp.com/channel/0029VamyjBXJuyACXCuuHm3l'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
